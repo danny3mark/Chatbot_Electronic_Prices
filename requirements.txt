@@ -1,0 +1,11 @@
+Flask
+requests
+tensorflow
+scikit-learn 
+nltk
+streamlit
+spacy
+python-dotenv==0.19.0
+colorama
+tqdm
+
